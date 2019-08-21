@@ -1,0 +1,981 @@
+    1  sudo add-apt-repository ppa:atareao/telegram
+    2  sudo apt install telegram
+    3  telegram
+    4  /opt/telegram/Telegram
+    5  sudo apt update
+    6  whereis telegram
+    7  sudo apt update
+    8  sudo apt install telegram
+    9  sudo add-apt-repository ppa:costales/unity-webapps-telegram 
+   10  ls Downloads/
+   11  tar xf Downloads/Eiffel_18.07_gpl_101981-linux-x86-64.tar.bz2 
+   12  ls
+   13  export ISE_EIFFEL=/home/alina/Eiffel_18.07
+   14  export ISE_PLATFORM=linux-x86-64
+   15  export PATH=$PATH:$ISE_EIFFEL/studio/spec/$ISE_PLATFORM/bin
+   16  estudio
+   17  gcc
+   18  sudo apt install gcc
+   19  gcc
+   20  estudio
+   21  vi ~/.bashrc
+   22  estudio
+   23  sudo apt-get install gcc g++ make
+   24  sudo apt-get install subversion
+   25  sudo apt-get install libgtk2.0-dev libxtst-dev
+   26  sudo apt-get install build-essential devscripts debhelper fakeroot lintian rpm
+   27  sudo apt-get install pax mkisofs
+   28  sudo apt-get install libcurl-dev
+   29  sudo apt-get install portmap nis nfs-common
+   30  whereis Eiffelstudio
+   31  sudo add apt repository ppa:eiffelstudio team/ppa
+   32  sudo add-apt-repository ppa:eiffelstudio-team/ppa
+   33  sudo apt-get update 
+   34  sudo apt-get install eiffelstudio
+   35  estudio
+   36  ls
+   37  mkdir Eiffel
+   38  ls
+   39  cd Eiffel
+   40  zip
+   41  ls
+   42  cd Eiffel
+   43  ls
+   44  zip lab_11_b.zip lab11-b/
+   45  ls
+   46  zip -m lab11-b/
+   47  zip -r lab_11_b.zip lab11-b/
+   48  ls
+   49  estudio
+   50  zip -r lab_11_b.zip Eiffel/lab11-b/
+   51  ls
+   52  rm -rf lab_11_b.zip 
+   53  zip -r lab_11_b.zip lab11b-1/
+   54  ls
+   55  estudio
+   56  eiffel
+   57  estudio
+   58  restart
+   59  rstart
+   60  rboot
+   61  reboot
+   62  estudio
+   63  estudio
+   64  abc
+   65  estudio
+   66  reboot
+   67  sudo tar xvzf install_flash_player_11_linux.i386.tar.gz -C /usr/lib/mozilla/plugins
+   68  adobe
+   69  sl
+   70  ls
+   71  ls Downloads/
+   72  sudo apt install flashplugin-installer
+   73  wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+   74  sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" > /etc/apt/sources.list.d/google-chrome.list'
+   75  sudo apt update
+   76  sudo apt install google-chrome-stable
+   77  estudio
+   78  estudio
+   79  reboot
+   80  service gdm stop
+   81  xorg -configure
+   82  service lightdm stop
+   83  Xorg -configure
+   84  mv xorg.conf.new /etc/X11/xorg.conf
+   85  sudo service lightdm stop 
+   86  X -configure
+   87  sudo enter-chroot
+   88  sudo gnome-session-wrapper gnome
+   89  sudo apt-get install gnome-tweak-tool
+   90  $ gsettings get org.gnome.desktop.peripherals.touchpad click-method
+   91  gsettings set org.gnome.desktop.peripherals.touchpad click-method 'fingers'
+   92  gsettings get org.gnome.desktop.peripherals.touchpad click-method
+   93  gsettings set org.gnome.desktop.peripherals.touchpad click-method 'areas'
+   94  gsettings get org.gnome.desktop.peripherals.touchpad click-method
+   95  estudio
+   96  ls
+   97  tar -cf PaukovaLab12.tar c
+   98  estudio
+   99  tar -cf Paukova.tar mult
+  100  tar -cf Paukovalab13.tar mult
+  101  reboot
+  102  estudio
+  103  ls
+  104  ls c
+  105  tar -cvzf Paukova13_b.tar application.e c.ecf bishop.e chess_board.e figure.e king.e knight.e pawn.e position.e queen.e rook.e square.e
+  106  tar -cvzf c
+  107  tar -cvzf Paukova13_b.tar c
+  108  ls
+  109  a
+  110  >a
+  111  reboot
+  112  estudio
+  113  tar -cvzf Paukova13_b.tar lab13_b
+  114  estudio
+  115  tar -cf Paukova_lab14_a.tar Paukova_lab_14_a
+  116  tar -cf Paukova_lab14_a.tar Paukova_lab14_a
+  117  reboot 
+  118  reboot
+  119  estudio
+  120  tar -cf lab8a.tar bintree
+  121  estudio
+  122  tee
+  123  estudio
+  124  LS
+  125  ls
+  126  ls Music
+  127  ls
+  128  dc
+  129  ls
+  130  reboot
+  131  cd 
+  132  ls
+  133  cd Documents/bin
+  134  cd Documents
+  135  ls
+  136  cd pycharm-community-2018.3.2/bin
+  137  ./pycharm.sh
+  138  whoami
+  139  fdisk/dev/sda
+  140  /sbin/fdisk/dev/sda
+  141  fdisk / dev/sda
+  142  man
+  143  man man
+  144  mkdir
+  145  mkdir 123
+  146  ls
+  147  ls -l
+  148  dir
+  149  ls
+  150  ls 123
+  151  ls 123/
+  152  c/
+  153  ls c/
+  154  cd
+  155  ls
+  156  ls c/
+  157  ls EIFGENs
+  158  ls BNF/
+  159  cd 123
+  160  cd
+  161  cd c/
+  162  pwd
+  163  cd .. 
+  164  cd
+  165  ls
+  166  cd
+  167  cd 123
+  168  mkdir 1
+  169  cd 1
+  170  mkdir 2
+  171  cd 2
+  172  pwd
+  173  su -
+  174  tree
+  175  cd ..
+  176  cd //
+  177  cd
+  178  su -
+  179  afanoz8052400
+  180  su -
+  181  whoami
+  182  echo 123/
+  183  ed 123/
+  184  ls
+  185  cd 123/
+  186  ls
+  187  cd 1/
+  188  ls
+  189  cd 2/
+  190  ls
+  191  mkdir 3
+  192  ls
+  193  cd 3
+  194  ls
+  195  cd ..
+  196  cd
+  197  a
+  198  r
+  199  py
+  200  python
+  201  cd pycharm-community-2018.3.2/bin
+  202  pycharm.sh
+  203  pycharm.sh /usr/bin/pycharm
+  204  ./pycharm.sh
+  205  reboot
+  206  cd pycharm-community-2018.3.2/bin
+  207  ./pycharm.sh
+  208  cd pycharm-community-2018.3.2/bin
+  209  ./pycharm.sh
+  210  sudo add-apt-repository ppa:mc3man/mpv-tests
+  211  sudo apt install arandr
+  212  ps aux | grep "\/X "
+  213  sudo apt-get install default-jdk
+  214  java -version 
+  215  ls
+  216  cd idea-IC-183.5153.38/
+  217  ls
+  218  cd bin/
+  219  ./idea.sh
+  220  >gss -v
+  221  ls
+  222  mkdir ITP
+  223  ls
+  224  cd ITP
+  225  gcc -v
+  226  gcc hello.c
+  227  touch hello.c
+  228  ls
+  229  gcc hello.c
+  230  ls
+  231  gcc hello.c –o hello
+  232  gcc hello.c
+  233  ls
+  234  hello.out
+  235  hello.s.out
+  236  ./a.out
+  237  gcc -std=c11 ex1.c
+  238  a.out
+  239  gcc hello.c
+  240  ./a.out 
+  241  gcc hello.c
+  242  ./a.out 
+  243  gcc -std=c11 ex1.c
+  244  gcc -std=c11 hello.c
+  245  ./a.out
+  246  gcc -std=c11 ex2.c
+  247  ./a.out
+  248  gcc -std=c11 ex2.c
+  249  ./a.out
+  250  gcc -std=c11 ex3.c
+  251  ./a.out
+  252  gcc -std=c11 ex4.c
+  253  ./a.out
+  254  gcc -std=c11 ex4.c
+  255  ./a.out
+  256  gcc -std=c11 ex4.c
+  257  ./a.out
+  258  gcc -std=c11 ex4.c
+  259  ./a.out
+  260  gcc -std=c11 ex5.c
+  261  ./a.out
+  262  gcc -std=c11 ex5.c
+  263  ./a.out
+  264  gcc -std=c11 ex5.c
+  265  ./a.out
+  266  gcc -std=c11 ex5.c
+  267  ./a.out
+  268  gcc -std=c11 ex5.c
+  269  ./a.out
+  270  gcc -std=c11 ex6.c
+  271  ./a.out
+  272  gcc -std=c11 ex6.c
+  273  ./a.out
+  274  gcc -std=c11 ex6.c
+  275  ./a.out
+  276  gcc -std=c11 ex7.c
+  277  ./a.out
+  278  gcc -std=c11 ex8.c
+  279  ./a.out
+  280  gcc -std=c11 ex8.c
+  281  ./a.out
+  282  gcc -std=c11 ex9.c
+  283  ls
+  284  cd ITP
+  285  gcc -std=c11 ex9.c
+  286  ./a.out
+  287  gcc -std=c11 ex9.c
+  288  ./a.out
+  289  gcc -std=c11 ex9.c
+  290  ./a.out
+  291  gcc -std=c11 ex9.c
+  292  ./a.out
+  293  gcc -std=c11 ex9.c
+  294  ./a.out
+  295  gcc -std=c11 ex9.c
+  296  ./a.out
+  297  gcc -std=c11 ex9.c
+  298  ./a.out
+  299  gcc -std=c11 ex9.c
+  300  ./a.out
+  301  gcc -std=c11 ex9.c
+  302  ./a.out
+  303  gcc -std=c11 ex9.c
+  304  ./a.out
+  305  gcc -std=c11 ex9.c
+  306  ./a.out
+  307  gcc -std=c11 ex9.c
+  308  ./a.out
+  309  gcc -std=c11 ex9.c
+  310  ./a.out
+  311  gcc -std=c11 ex9.c
+  312  ./a.out
+  313  gcc -std=c11 ex9.c
+  314  ./a.out
+  315  gcc -std=c11 ex9.c
+  316  ./a.out
+  317  gcc -std=c11 ex9.c
+  318  ./a.out
+  319  gcc -std=c11 ex10.c
+  320  ./a.out
+  321  gcc -std=c11 ex11.c
+  322  ./a.out
+  323  gcc -std=c11 ex9.c
+  324  ./a.out
+  325  gcc -std=c11 ex9.c
+  326  ./a.out
+  327  gcc -std=c11 ex9.c
+  328  ./a.out
+  329  gcc -std=c11 ex9.c
+  330  ./a.out
+  331  gcc -std=c11 l2e2.c
+  332  ls
+  333  cd ITP
+  334  gcc -std=c11 l2e2.c
+  335  ./a.out
+  336  gcc -std=c11 l2e2.c
+  337  ./a.out
+  338  gcc -std=c11 l2e2.c
+  339  ./a.out
+  340  gcc -std=c11 l2e2.c
+  341  ./a.out
+  342  gcc -std=c11 l2e2.c
+  343  ./a.out
+  344  gcc -std=c11 l2e2.c
+  345  ./a.out
+  346  gcc -std=c11 l2e2.c
+  347  ./a.out
+  348  gcc -std=c11 l2e2.c
+  349  ./a.out
+  350  gcc -std=c11 l2e2.c
+  351  ./a.out
+  352  gcc -std=c11 l2e2.c
+  353  ./a.out
+  354  gcc -std=c11 l2e2.c
+  355  ./a.out
+  356  gcc -std=c11 l2e2.c
+  357  ./a.out
+  358  gcc -std=c11 l2e2.c
+  359  ./a.out
+  360  gcc -std=c11 l2e2.c
+  361  ./a.out
+  362  gcc -std=c11 l2e2.c
+  363  ./a.out
+  364  gcc -std=c11 l2e2.c
+  365  ./a.out
+  366  gcc -std=c11 l2e2.c
+  367  ./a.out
+  368  gcc -std=c11 l2e2.c
+  369  ./a.out
+  370  gcc -std=c11 l2e2.c
+  371  ./a.out
+  372  gcc -std=c11 l2e2.c
+  373  ./a.out
+  374  gcc -std=c11 l2e2.c
+  375  ./a.out
+  376  gcc -std=c11 l2e2.c
+  377  ./a.out
+  378  gcc -std=c11 l2e2.c
+  379  ./a.out
+  380  gcc -std=c11 l2e2.c
+  381  ./a.out
+  382  gcc -std=c11 l2e2.c
+  383  ./a.out
+  384  gcc -std=c11 l2e2.c
+  385  ./a.out
+  386  gcc -std=c11 l2e2.c
+  387  ./a.out
+  388  gcc -std=c11 l2e2.c
+  389  ./a.out
+  390  gcc -std=c11 l2e2.c
+  391  ./a.out
+  392  gcc -std=c11 l2e2.c
+  393  ./a.out
+  394  gcc -std=c11 l2e2.c
+  395  ./a.out
+  396  gcc -std=c11 l2e2.c
+  397  ./a.out
+  398  gcc -std=c11 l2e2.c
+  399  ./a.out
+  400  gcc -std=c11 l2e2.c
+  401  ./a.out
+  402  gcc -std=c11 l2e2.c
+  403  ./a.out
+  404  gcc -std=c11 ex11.c
+  405  ./a.out
+  406  ghjjk hidhc
+  407  gcc -std=c11 ex11.c
+  408  ./a.out
+  409  gcc -std=c11 ex11.c
+  410  ./a.out
+  411  gcc -std=c11 ex11.c
+  412  ./a.out
+  413  gcc -std=c11 ex11.c
+  414  fghjk oigbv 534312 dnkv
+  415  gcc -std=c11 ex11.c
+  416  ./a.out
+  417  gcc -std=c11 ex11.c
+  418  ./a.out
+  419  gcc -std=c11 ex11.c
+  420  ./a.out
+  421  gcc -std=c11 ex11.c
+  422  ./a.out
+  423  gcc -std=c11 ex11.c
+  424  ./a.out
+  425  gcc -std=c11 ex11.c
+  426  ./a.out
+  427  gcc -std=c11 ex11.c
+  428  ./a.out
+  429  gcc -std=c11 ex11.c
+  430  ./a.out
+  431  gcc -std=c11 ex11.c
+  432  ./a.out
+  433  gcc -std=c11 ex11.c
+  434  ./a.out
+  435  gcc -std=c11 ex11.c
+  436  ./a.out
+  437  gcc -std=c11 l2e2.c
+  438  ./a.out
+  439  gcc -std=c11 l2e2.c
+  440  ./a.out
+  441  gcc -std=c11 l2e2.c
+  442  ./a.out
+  443  gcc -std=c11 l2e2.c
+  444  ./a.out
+  445  gcc -std=c11 l2e2.c
+  446  ./a.out
+  447  gcc -std=c11 l2e2.c
+  448  ./a.out
+  449  gcc -std=c11 l2e2.c
+  450  ./a.out
+  451  gcc -std=c11 l2e2.c
+  452  ./a.out
+  453  gcc -std=c11 l2e2.c
+  454  ./a.out
+  455  gcc -std=c11 l2e2.c
+  456  ./a.out
+  457  gcc -std=c11 l2e2.c
+  458  ./a.out
+  459  gcc -std=c11 l2e2.c
+  460  ./a.out
+  461  gcc -std=c11 l2e2.c
+  462  ./a.out
+  463  gcc -std=c11 l2e2.c
+  464  ./a.out
+  465  gcc -std=c11 l2e2.c
+  466  ./a.out
+  467  gcc -std=c11 l2e2.c
+  468  ./a.out
+  469  gcc -std=c11 l2e2.c
+  470  ./a.out
+  471  gcc -std=c11 l2e2.c
+  472  ./a.out
+  473  gcc -std=c11 l2e2.c
+  474  ./a.out
+  475  gcc -std=c11 l2e2.c
+  476  ./a.out
+  477  gcc -std=c11 l2e3.c
+  478  ./a.out
+  479  cd ITP/
+  480  gcc -std=c11 l2e3.c
+  481  ./a.out
+  482  cd ITP/
+  483  gcc -std=c11 l2e4.c
+  484  ./a.out
+  485  gcc -std=c11 l2e4.c
+  486  ./a.out
+  487  5
+  488  gcc -std=c11 l2e4.c
+  489  ./a.out
+  490  gcc -std=c11 l2e4.c
+  491  ./a.out
+  492  gcc -std=c11 l2e4.c
+  493  ./a.out
+  494  gcc -std=c11 l2e4.c
+  495  ./a.out
+  496  gcc -std=c11 l2e4.c
+  497  ./a.out
+  498  gcc -std=c11 l2e4.c
+  499  ./a.out
+  500  gcc -std=c11 l2e4.c
+  501  ./a.out
+  502  gcc -std=c11 l2e4.c
+  503  ./a.out
+  504  gcc -std=c11 l2e4.c
+  505  ./a.out
+  506  gcc -std=c11 l2e4.c
+  507  ./a.out
+  508  gcc -std=c11 l2e4.c
+  509  ./a.out
+  510  gcc -std=c11 l2e4.c
+  511  ./a.out
+  512  gcc -std=c11 l2e4.c
+  513  ./a.out
+  514  gcc -std=c11 l2e4.c
+  515  ./a.out
+  516  gcc -std=c11 l2e5.c
+  517  gcc -std=c11 l2e6.c
+  518  ./a.out
+  519  gcc -std=c11 l2e6.c
+  520  ./a.out
+  521  gcc -std=c11 l2e6.c
+  522  ./a.out
+  523  gcc -std=c11 l2e6.c
+  524  ./a.out
+  525  gcc -std=c11 l2e6.c
+  526  ./a.out
+  527  gcc -std=c11 l2e6.c
+  528  ./a.out
+  529  gcc -std=c11 l2e6.c
+  530  ./a.out
+  531  gcc -std=c11 l2e6.c
+  532  ./a.out
+  533  gcc -std=c11 l2e6.c
+  534  ./a.out
+  535  gcc -std=c11 l2e6.c
+  536  ./a.out
+  537  gcc -std=c11 l2e6.c
+  538  ./a.out
+  539  gcc -std=c11 l2e6.c
+  540  ./a.out
+  541  gcc -std=c11 l2e6.c
+  542  ./a.out
+  543  gcc -std=c11 l2e6.c
+  544  ./a.out
+  545  gcc -std=c11 l2e6.c
+  546  ./a.out
+  547  gcc -std=c11 l2e6.c
+  548  ./a.out
+  549  gcc -std=c11 l2e6.c
+  550  ./a.out
+  551  gcc -std=c11 l2e6.c
+  552  ./a.out
+  553  gcc -std=c11 l2e6.c
+  554  ./a.out
+  555  gcc -std=c11 l2e7.c
+  556  ./a.out
+  557  gcc -std=c11 l2e7.c
+  558  ./a.out
+  559  gcc -std=c11 l2e7.c
+  560  ./a.out
+  561  gcc -std=c11 l2e7.c
+  562  ./a.out
+  563  gcc -std=c11 l2e8.c
+  564  ./a.out
+  565  gcc -std=c11 l2e8.c
+  566  ./a.out
+  567  gcc -std=c11 l2e8.c
+  568  ./a.out
+  569  gcc -std=c11 l2e8.c
+  570  ./a.out
+  571  gcc -std=c11 l2e8.c
+  572  ./a.out
+  573  gcc -std=c11 l2e8.c
+  574  ./a.out
+  575  gcc -std=c11 l2e8.c
+  576  ./a.out
+  577  gcc -std=c11 l2e8.c
+  578  ./a.out
+  579  gcc -std=c11 l2e8.c
+  580  ./a.out
+  581  gcc -std=c11 l2e8.c
+  582  ./a.out
+  583  gcc -std=c11 l2e8.c
+  584  ./a.out
+  585  gcc -std=c11 l2e8.c
+  586  ./a.out
+  587  gcc -std=c11 l2e8.c
+  588  47
+  589  ./a.out
+  590  gcc -std=c11 l2e8.c
+  591  ./a.out
+  592  gcc -std=c11 l2e8.c
+  593  ./a.out
+  594  12
+  595  ./a.out
+  596  65
+  597  ./a.out
+  598  44
+  599  ./a.out
+  600  65
+  601  ./a.out
+  602  gcc -std=c11 l2e8.c
+  603  ./a.out
+  604  gcc -std=c11 l2e8.c
+  605  ./a.out
+  606  gcc -std=c11 l2e8.c
+  607  ./a.out
+  608  gcc -std=c11 l2e8.c
+  609  ./a.out
+  610  gcc -std=c11 l2e8.c
+  611  ./a.out
+  612  gcc -std=c11 l2e8.c
+  613  cd ITP
+  614  gcc -std=c11 l2e8.c
+  615  ./a.out
+  616  cd ITP
+  617  gcc -std=c11 l2e8.c
+  618  ./a.out
+  619  gcc -std=c11 ex1.c
+  620  cd ITP
+  621  gcc -std=c11 ex1.c
+  622  ./a.out
+  623  gcc -std=c11 ex1.c
+  624  ./a.out
+  625  gcc -std=c11 ex1.c
+  626  ./a.out
+  627  gcc -std=c11 ex1.c
+  628  ./a.out
+  629  gcc -std=c11 ex1.c
+  630  ./a.out
+  631  cd ITP
+  632  gcc -std=c11 ex1.c
+  633  ./a.out
+  634  cd ITP
+  635  gcc -std=c11 ex1.c
+  636  ./a.out
+  637  gcc -std=c11 ex1.c
+  638  ./a.out
+  639  gcc -std=c11 ex1.c
+  640  ./a.out
+  641  gcc -std=c11 ex2.c
+  642  gcc -std=c11 ex3.c
+  643  ./a.out
+  644  gcc -std=c11 ex3.c
+  645  ./a.out
+  646  gcc -std=c11 ex3.c
+  647  ./a.out
+  648  gcc -std=c11 ex1.c
+  649  ./a.out
+  650  gcc -std=c11 ex1.c
+  651  ./a.out
+  652  gcc -std=c11 ex1.c
+  653  ./a.out
+  654  cd ITP
+  655  gcc -std=c11 ex1.c
+  656  ./a.out
+  657  cd ITP
+  658  gcc -std=c11 ex1.c
+  659  ./a.out
+  660  cd ITP
+  661  gcc -std=c11 ex1.c
+  662  ./a.out
+  663  cd ITP
+  664  cd week5
+  665  ls
+  666  cd week 5
+  667  cd 'week 5'
+  668  gcc -std=c11 ex1.c
+  669  ./a.out
+  670  gcc -std=c11 ex1.c
+  671  ./a.out
+  672  cd ITP
+  673  cd week5
+  674  gcc -std=c11 ex1.c
+  675  ./a.out
+  676  gcc -std=c11 ex1.c
+  677  ./a.out
+  678  gcc -std=c11 ex1.c
+  679  clear
+  680  gcc -std=c11 ex1.c
+  681  clear && gcc -std=c11 ex1.c 
+  682  clear
+  683  gcc -std=c11 ex1.c
+  684  ./a.out
+  685  clear
+  686  gcc -std=c11 ex1.c
+  687  ./a.out
+  688  gcc -std=c11 ex1.c
+  689  ./a.out
+  690  clear
+  691  gcc -std=c11 ex3.c
+  692  ./a.out
+  693  gcc -std=c11 ex3.c
+  694  ./a.out
+  695  gcc -std=c11 ex3.c
+  696  ./a.out
+  697  gcc -std=c11 ex3.c
+  698  ./a.out
+  699  gcc -std=c11 ex3.c
+  700  ./a.out
+  701  gcc -std=c11 ex3.c
+  702  ./a.out
+  703  Day: 31
+  704  gcc -std=c11 ex3.c
+  705  ./a.out
+  706  gcc -std=c11 ex4.c
+  707  ./a.out
+  708  gcc -std=c11 ex4.c
+  709  ./a.out
+  710  gcc -std=c11 ex4.c
+  711  ./a.out
+  712  gcc -std=c11 ex4.c
+  713  ./a.out
+  714  d
+  715  gcc -std=c11 ex4.c
+  716  ./a.out
+  717  gcc -std=c11 ex4.c
+  718  ./a.out
+  719  gcc -std=c11 ex4.c
+  720  ./a.out
+  721  gcc -std=c11 ex4.c
+  722  ./a.out
+  723  cd ITP
+  724  cd week7
+  725  gcc -std=c11 ex1.c
+  726  cat ex1.c 
+  727  gcc -std=c11 ex1.c
+  728  ./a.out
+  729  gcc -std=c11 ex1.c
+  730  ./a.out
+  731  gcc -std=c11 ex1.c
+  732  ./a.out
+  733  gcc -std=c11 ex1.c
+  734  ./a.out
+  735  gcc -std=c11 ex1.c
+  736  ./a.out
+  737  gcc -std=c11 ex1.c
+  738  ./a.out
+  739  clear
+  740  gcc -std=c11 ex1.c
+  741  ./a.out
+  742  clear
+  743  gcc -std=c11 ex1.c
+  744  ./a.out
+  745  gcc -std=c11 ex2.c
+  746  ./a.out
+  747  gcc -std=c11 ex2.c
+  748  ./a.out
+  749  cd ITP
+  750  cd week8
+  751  gcc -std=c11 ex2.c
+  752  cd week8
+  753  gcc -std=c11 ex2.c
+  754  ./a.out
+  755  gcc -std=c11 ex2.c
+  756  ./a.out
+  757  gcc -std=c11 ex2.c
+  758  ./a.out
+  759  gcc -std=c11 ex2.c
+  760  ./a.out
+  761  gcc -std=c11 ex2.c
+  762  ./a.out
+  763  cd week8
+  764  cd ITP
+  765  cd week8
+  766  gcc -std=c11 ex2.c
+  767  cd week8
+  768  gcc -std=c11 ex2.c
+  769  ./a.out
+  770  cd ITP
+  771  cd week8
+  772  gcc -std=c11 ex2.c
+  773  ./a.out
+  774  cd ITP
+  775  cd week11
+  776  gcc ex1.c
+  777  gcc -pthread -o ex1 ex1.c
+  778  ./a.out
+  779  gcc -pthread -o ex1 ex1.c
+  780  ./a.out
+  781  gcc -pthread ex1.c
+  782  ./a.out
+  783  gcc -pthread ex1.c
+  784  ./a.out
+  785  gcc -pthread ex1.c
+  786  ./a.out
+  787  gcc -pthread ex1.c
+  788  ./a.out
+  789  gcc -pthread ex1.c
+  790  ./a.out
+  791  gcc -pthread ex1.c
+  792  ./a.out
+  793  gcc -pthread ex1.c
+  794  ./a.out
+  795  gcc -pthread ex1.c
+  796  ./a.out
+  797  gcc -pthread ex1.c
+  798  ./a.out
+  799  gcc -pthread ex1.c
+  800  ./a.out
+  801  gcc -pthread ex1.c
+  802  ./a.out
+  803  gcc -pthread ex1.c
+  804  ./a.out
+  805  gcc -pthread ex1.c
+  806  ./a.out
+  807  gcc -pthread ex1.c
+  808  ./a.out
+  809  gcc -pthread ex3.c
+  810  ./a.out
+  811  gcc -pthread ex3.c
+  812  ./a.out
+  813  gcc -pthread ex3.c
+  814  ./a.out
+  815  gcc -pthread ex3.c
+  816  ./a.out
+  817  gcc -pthread ex3.c
+  818  ./a.out
+  819  gcc -pthread ex3.c
+  820  ./a.out
+  821  gcc -pthread ex3.c
+  822  ./a.out
+  823  cler
+  824  clear
+  825  gcc -pthread ex3.c
+  826  clear
+  827  gcc -pthread ex3.c
+  828  ./a.out
+  829  gcc -pthread ex3.c
+  830  ./a.out
+  831  gcc -pthread ex3.c
+  832  ./a.out
+  833  gcc -pthread ex3.c
+  834  ./a.out
+  835  gcc -pthread ex3.c
+  836  ./a.out
+  837  gcc -pthread ex3.c
+  838  ./a.out
+  839  clear
+  840  gcc -pthread ex3.c
+  841  ./a.out
+  842  gcc -pthread ex3.c
+  843  ./a.out
+  844  gcc -pthread ex3.c
+  845  ./a.out
+  846  gcc -pthread ex3.c
+  847  ./a.out
+  848  gcc -pthread ex3.c; ./a.out
+  849  gcc -pthread ex3.c
+  850  ./a.out
+  851  gcc -pthread ex3.c
+  852  ./a.out
+  853  gcc -pthread ex3.c
+  854  ./a.out
+  855  gcc -pthread ex3.c
+  856  ./a.out
+  857  gcc -pthread ex3.c
+  858  ./a.out
+  859  gcc -pthread ex3.c
+  860  ./a.out
+  861  gcc -pthread ex3.c
+  862  ./a.out
+  863  gcc -pthread ex3.c
+  864  ./a.out
+  865  gcc -pthread ex3.c
+  866  ./a.out
+  867  gcc -pthread ex3.c
+  868  ./a.out
+  869  gcc -pthread ex3.c
+  870  ./a.out
+  871  gcc -pthread ex3.c
+  872  ./a.out
+  873  gcc -pthread ex3.c
+  874  ./a.out
+  875  gcc -pthread ex3.c
+  876  ./a.out
+  877  gcc -pthread ex3.c
+  878  ./a.out
+  879  gcc -pthread ex3.c
+  880  ./a.out
+  881  gcc -pthread ex3.c
+  882  ./a.out
+  883  gcc -pthread ex3.c
+  884  ./a.out
+  885  gcc -pthread ex3.c
+  886  ./a.out
+  887  gcc -pthread ex3.c
+  888  ./a.out
+  889  gcc -pthread ex3.c
+  890  ./a.out
+  891  gcc -pthread ex3.c
+  892  ./a.out
+  893  gcc -pthread ex3.c
+  894  ./a.out
+  895  gcc -pthread ex3.c
+  896  ./a.out
+  897  gcc -pthread ex3.c
+  898  ./a.out
+  899  gcc -pthread ex3.c
+  900  ./a.out
+  901  gcc -pthread ex3.c
+  902  ./a.out
+  903  xrandr –output HDMI-0 –mode 1280×720 –right-of DVI-0
+  904  disper -S -r 1280×720
+  905  cd ITP
+  906  cd week12
+  907  gcc -std=c11 encrypt.c
+  908  ./a.out
+  909  gcc -std=c11 encrypt.c
+  910  ./a.out
+  911  gcc -std=c11 encrypt.c
+  912  sudo apt update
+  913  java -version
+  914  gcc -std=c11 ass.c
+  915  ./a.out
+  916  gcc -std=c11 ass.c
+  917  ./a.out
+  918  cd ITP
+  919  cd ass
+  920  cd asss
+  921  gcc main.c -Wall
+  922  gcc -Wall main.c
+  923  gcc -Wall ass2.c
+  924  cd
+  925  cd ITP
+  926  cd week13
+  927  gcc -S -Og ex2-1.c -o ex2-2.c
+  928  gcc -S -Og ex2-1.c -o ex2-1.s
+  929  gcc -S -Og ex2-2.c -o ex2-2.s
+  930  gcc -S -Og ex2-1.c -o ex2-1.s
+  931  gcc -S -Og ex2-2.c -o ex2-2.s
+  932  gcc -S -Og ex2-4.c -o ex2-4.s
+  933  gcc -S -Og ex2-5.c -o ex2-5.s
+  934  gcc -std=c11 ex1-1.s
+  935  gcc -std=c11 ex2-1.s
+  936  reboot
+  937  ssh -X Alwa0@osc-[N].edu.innopolis.ru 
+  938  mkdir ~/week1 
+  939  ls
+  940  ls week1
+  941  cd week1
+  942  ex1.txt
+  943  >ex1.txt
+  944  ls
+  945  cd
+  946  ls
+  947  whoami
+  948  hostname
+  949  man whoami
+  950  man man
+  951  less
+  952  less --help
+  953  head
+  954  man -h | head
+  955  man -h | tail
+  956  ls > list.txt
+  957  ls
+  958  ls | sort -r | tail -n 3
+  959  .
+  960  ..
+  961  clear
+  962  mkdir ~/week1
+  963  cd week1
+  964  cd
+  965  ls /usr/bin
+  966  ls | sort -r 
+  967  ls | sort
+  968  cd /usr/bin 
+  969  ls | sort -r
+  970  ls > “~/
+  971  ls
+  972  ls | sort -r
+  973  ls > ~/week1/ex1.txt
+  974  ls | sort -r
+  975  ls > /week1/ex1.txt
+  976  ls | sort -r
+  977  ls | sort -r > ~/week1/ex1.txt
+  978  cd
+  979  cd week1
+  980  > ex2.txt
+  981  history > ex2.txt
