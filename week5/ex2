@@ -1,0 +1,14 @@
+#!/bin/bash
+touch file.txt
+if { set -C; 2>/dev/null >~/manlocktest.lock; }; then
+         trap "rm -f ~/manlocktest.lock" EXIT
+ else
+         exit
+ fi
+if [[ ! -s file.txt ]]; then echo "0" >> file.txt;
+fi
+while IFS= read -r var < <(tail -n1 file.txt)
+do
+	echo "$(($var + 1))" >> file.txt
+done
+
