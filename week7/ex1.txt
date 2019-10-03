@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+   2018	    632	      8	   2658	    a62	ex1
