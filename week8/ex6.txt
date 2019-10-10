@@ -1,0 +1,2 @@
+Since each page is 8 KB, we will need 13 bits of offset (2^13 = 8 KB).
+As we know, we have 16 addressable bits, so 16-13 = 3 consequently we have 2^3 = 8 entries

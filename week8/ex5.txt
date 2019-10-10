@@ -1,0 +1,2 @@
+Physical address is related with hardware addresses of physical memory whereas Virtual address refer with virtual store.
+Moreover, physical memory is faster and does not depend on virtual memory
