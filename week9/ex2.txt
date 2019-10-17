@@ -1,0 +1,4 @@
+  
+One of the possibilities to make the result in increased Hit/Miss ratio is sequence of repeating numbers. Ex: 1 1 1 1 1 1 ... That is because there will be no misses(any miss then will be reused and lead to result of hit).
+
+In the other hand, sequence of unique numbers will result in decreased Hit/Miss ratio, due to the getting miss every time. Ex: 1 2 3 4 ...
