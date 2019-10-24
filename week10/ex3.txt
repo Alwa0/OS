@@ -1,0 +1,21 @@
+sudo chmod a-x _ex3.txt 
+ls -lah _ex3.txt
+-rw-r--r--  1 alina alina   11 окт 24 22:15 _ex3.txt
+
+
+sudo chmod 770 _ex3.txt
+ls -lah _ex3.txt
+-rwxrwx---  1 alina alina   11 окт 24 22:15 _ex3.txt
+
+chmod 660 _ex3.txt
+ls -lah _ex3.txt
+-rw-rw---- 1 alina alina 11 окт 24 22:15 _ex3.txt
+
+chmod 775 _ex3.txt
+ls -lah _ex3.txt
+-rwxrwxr-x 1 alina alina 11 окт 24 22:15 _ex3.txt
+
+chmod 777 _ex3.txt
+ls -lah _ex3.txt
+-rwxrwxrwx 1 alina alina 11 окт 24 22:15 _ex3.txt
+

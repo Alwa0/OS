@@ -1,0 +1,7 @@
+14550198 /home/alina/hw/week1/file.txt
+../week1/file.txt
+
+We removed our file from week1 so such file does not exist in that directory
+~/hw/week10$ ls ../week1
+ex1.txt  ex2.txt  ex3.sh  ex4  main.c
+
