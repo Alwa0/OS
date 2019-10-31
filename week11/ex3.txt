@@ -1,0 +1,2 @@
+In the first program it prints two "Hello" because child and parent have the same buffer so when the parent makes a second printf it prints everything from buffer
+In the second case program prints two '\n' because child inherits buffer from its parent process then it executes printf twice by child processes
